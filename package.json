@@ -1,5 +1,5 @@
 {
-  "name": "hugo-npm",
+  "name": "video-hugo-npm",
   "version": "0.1.0",
   "description": "Setting up hugo to work with NPM modules",
   "main": " ",
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/future-wd/youtube-videos/hugo-npm"
+    "url": "github.com/future-wd/video-hugo-npm"
   },
   "keywords": [
     "npm",
     "hugo",
     "getting-started"
   ],
-  "author": "Sean Emerson",
+  "author": "Future Web Design",
   "license": "ISC",
   "devDependencies": {
     "exec-bin": "^1.0.0",
@@ -29,6 +29,6 @@
     "npm-check": "^5.9.2"
   },
   "otherDependencies": {
-    "hugo": "0.88.1"
+    "hugo": "0.89.0"
   }
 }
